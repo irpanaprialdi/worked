@@ -1,8 +1,8 @@
 <?php
 $db_hostname = 'localhost';
-$db_username = 'root';
-$db_password = '';
-$db_name = 'worked';
+$db_username = 'id16111390_root';
+$db_password = '{C[yS[f<EdF!a5bo';
+$db_name = 'id16111390_worked';
 
 
 try {
